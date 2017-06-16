@@ -15,3 +15,4 @@ module.exports = function (dir, ext, call) {
 			call(null, filteredData)
 		})
 	}
+	
